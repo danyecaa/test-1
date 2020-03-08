@@ -1,5 +1,4 @@
-<cookie></cookie>
-<url>https://ntdsc.herokuapp.com/ntd_schedule.php?day=0</url>
+
 美东台
 
 2020-03-08 (周日)
